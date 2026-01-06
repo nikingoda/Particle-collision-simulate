@@ -1,0 +1,7 @@
+checker_cache/
+sim
+sim.perf
+*.o
+*.o.perf
+!sim_validator.a
+.vscode
